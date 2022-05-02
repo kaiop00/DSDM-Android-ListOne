@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InicioProject</string>
+    <string-array name="countries">
+        <item>sim</item>
+        <item>não</item>
+        <item>depois</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
